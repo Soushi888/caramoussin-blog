@@ -93,11 +93,15 @@ graph TB
         D --> I[Implementation]
         D --> T
         
-        style CC fill:#f96,stroke:#333
-        style SPO fill:#9ff,stroke:#333
-        style DR fill:#f9f,stroke:#333
-        style T fill:#ff9,stroke:#333
-        style V fill:#9f9,stroke:#333
+        style CC fill:#1e3d59,stroke:#000,color:#fff
+        style SPO fill:#2c4875,stroke:#000,color:#fff
+        style DR fill:#1d3557,stroke:#000,color:#fff
+        style T fill:#ff6e40,stroke:#000,color:#fff
+        style V fill:#1e3d59,stroke:#000,color:#fff
+        style D fill:#2c4875,stroke:#000,color:#fff
+        style I fill:#1d3557,stroke:#000,color:#fff
+        style CIP fill:#ff6e40,stroke:#000,color:#fff
+        style FP fill:#ff6e40,stroke:#000,color:#fff
     end
 ```
 
@@ -212,10 +216,11 @@ graph TB
         U2[UTXO 2] --> T1
         T1 --> NU1[New UTXO 1]
         T1 --> NU2[New UTXO 2]
-        style U1 fill:#f9f,stroke:#333
-        style U2 fill:#f9f,stroke:#333
-        style NU1 fill:#9ff,stroke:#333
-        style NU2 fill:#9ff,stroke:#333
+        style U1 fill:#1e3d59,stroke:#000,color:#fff
+        style U2 fill:#1e3d59,stroke:#000,color:#fff
+        style T1 fill:#ff6e40,stroke:#000,color:#fff
+        style NU1 fill:#1d3557,stroke:#000,color:#fff
+        style NU2 fill:#1d3557,stroke:#000,color:#fff
     end
     
     subgraph "Account Model"
@@ -223,10 +228,11 @@ graph TB
         A2[Account B<br/>Balance: 50] --> T2
         T2 --> NA1[Account A<br/>Balance: 70]
         T2 --> NA2[Account B<br/>Balance: 80]
-        style A1 fill:#ff9,stroke:#333
-        style A2 fill:#ff9,stroke:#333
-        style NA1 fill:#9f9,stroke:#333
-        style NA2 fill:#9f9,stroke:#333
+        style A1 fill:#2c4875,stroke:#000,color:#fff
+        style A2 fill:#2c4875,stroke:#000,color:#fff
+        style T2 fill:#ff6e40,stroke:#000,color:#fff
+        style NA1 fill:#1e3d59,stroke:#000,color:#fff
+        style NA2 fill:#1e3d59,stroke:#000,color:#fff
     end
 ```
 
@@ -401,13 +407,14 @@ graph TB
     SP --> H2
     SP --> H3
     
-    style C fill:#f96,stroke:#333
-    style H1 fill:#9ff,stroke:#333
-    style H2 fill:#9ff,stroke:#333
-    style H3 fill:#9ff,stroke:#333
-    style S1 fill:#f9f,stroke:#333
-    style S2 fill:#f9f,stroke:#333
-    style S3 fill:#f9f,stroke:#333
+    style C fill:#1e3d59,stroke:#000,color:#fff
+    style SP fill:#2c4875,stroke:#000,color:#fff
+    style H1 fill:#1d3557,stroke:#000,color:#fff
+    style H2 fill:#1d3557,stroke:#000,color:#fff
+    style H3 fill:#1d3557,stroke:#000,color:#fff
+    style S1 fill:#ff6e40,stroke:#000,color:#fff
+    style S2 fill:#ff6e40,stroke:#000,color:#fff
+    style S3 fill:#ff6e40,stroke:#000,color:#fff
 ```
 
 ### Argentina Adoption
