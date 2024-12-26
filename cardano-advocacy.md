@@ -27,6 +27,7 @@
   - [Palmyra](#palmyra)
   - [NMKR](#nmkr)
   - [FluidTokens](#fluidtokens)
+  - [Iagon](#iagon)
 - [Conclusion](#conclusion)
 
 ## What is Cardano?
@@ -543,6 +544,19 @@ FluidTokens is a DeFi platform on Cardano, focusing on providing innovative fina
 
 **Impact**:
 FluidTokens enhances Cardano's DeFi capabilities, particularly by providing new ways to utilize NFTs and tokens, potentially attracting more users to Cardano's DeFi ecosystem and fostering a more dynamic market for digital assets.
+
+### Iagon
+
+Iagon is a decentralized cloud computing platform built on Cardano that provides secure cloud services for storage and processing. It aims to create a global supercomputer by connecting and utilizing idle computational resources.
+
+**Key Features**:
+- Decentralized Storage: Provides secure, encrypted storage solutions using a network of distributed nodes
+- Processing Power Marketplace: Allows users to share and monetize their computational resources
+- Secure Encryption: Implements advanced encryption protocols to ensure data privacy and security
+- Cardano Integration: Uses Cardano's blockchain for secure transactions and smart contracts to manage resource allocation and payments
+
+**Impact**:
+Iagon has the potential to significantly impact the cloud computing industry by providing a decentralized, secure, and cost-effective alternative to traditional cloud services. By leveraging Cardano's blockchain, Iagon can ensure the integrity and security of its services, making it an attractive option for businesses and individuals looking for reliable cloud solutions.
 
 Each project leverages Cardano's strengths like security, scalability (through future updates), and its commitment to peer-reviewed research to innovate within their respective domains. However, their success also hinges on Cardano's ability to address its adoption challenges and further develop its ecosystem.
 
